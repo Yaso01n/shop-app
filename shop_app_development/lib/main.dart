@@ -1,12 +1,12 @@
 // ignore_for_file: prefer_const_constructors
 
 import 'package:flutter/material.dart';
-import './Login Page.dart';
-import './Home Page.dart';
-import './Cart Page.dart';
-import './Favourite Page.dart';
-import './Navigation Bar.dart';
-import './Product Details Page.dart';
+import './Login_Page.dart';
+import './Home_Page.dart';
+import './Cart_Page.dart';
+import './Favourite_Page.dart';
+import './Navigation_Bar.dart';
+import 'Product_Details_Page.dart';
 
 void main() {
   runApp(const MyApp());
